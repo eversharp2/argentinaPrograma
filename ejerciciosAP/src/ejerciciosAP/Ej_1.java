@@ -1,6 +1,6 @@
-package ejercicios_clase_1;
+package ejerciciosAP;
 
-public class Ejercicios {
+public class Ej_1 {
 public static void main(String[] args) {
 		
 		
@@ -80,5 +80,6 @@ public static void main(String[] args) {
 		}else {
 			System.out.println("El sujeto no pertenece al segmento de ingresos altos");
 		}
-	}	
+		
+	}
 }

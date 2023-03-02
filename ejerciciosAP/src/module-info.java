@@ -5,5 +5,5 @@
  * @author diego
  *
  */
-module ejercicios_clase_1 {
+module ejerciciosAP {
 }
