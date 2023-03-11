@@ -1,0 +1,3 @@
+40,jabon,123f
+10,esponjas,124f
+100,chocolates,125f
