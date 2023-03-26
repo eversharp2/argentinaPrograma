@@ -2,7 +2,7 @@ package ejercicio_4;
 
 import java.util.Arrays;
 
-public class pto_1a {
+public class Pto_1a {
 	public static void main(String[] args) {
 		
 		
